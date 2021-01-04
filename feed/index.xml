@@ -9,8 +9,8 @@
 
 <channel>
 	<title>WROTA</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/wrota/feed/" rel="self" type="application/rss+xml" />
+	<link>/wrota/</link>
 	<description>Wrocławskie Towarzystwo Akademickie</description>
 	<lastBuildDate>Wed, 23 Dec 2020 21:03:24 +0000</lastBuildDate>
 	<language>pl-PL</language>
