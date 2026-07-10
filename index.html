@@ -470,7 +470,7 @@ na Ostrowie Tumskim, przy ul. Katedralnej 4 we Wrocławiu. Wejście do kościoł
 <script>
   const map = L.map('map').setView([51.114759, 17.042969], 15);
 
-	const tiles = L.tileLayer('../tile.openstreetmap.org/%7bz%7d/%7bx%7d/%7by%7d.html', {
+	const tiles = L.tileLayer('./tile.openstreetmap.org/{z}/{x}/{y}.html', {
 		maxZoom: 19,
 		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	}).addTo(map);
