@@ -7,7 +7,12 @@ body {
     /* font-family: Arial, sans-serif; */
 	font-family: "Open Sans", sans-serif;
     line-height: 1.6;
-    background: #f5f5f5;
+    /* background: #f5f5f5; Poniżej testowa modyfikacja tekstu i tła: */
+	font-weight: 400;
+    color: #474747;
+    background: #fff;
+    font-size: 1.6rem;
+    line-height: 1.75;
 }
 
 /* HEADER */
