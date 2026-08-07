@@ -44,8 +44,8 @@ body {
 
 .menu a {
     color: white;
-    /*text-decoration: none;*/
-	text-decoration: upper;
+    text-decoration: none;
+	text-transform: uppercase;
 }
 
 .menu a:hover {
