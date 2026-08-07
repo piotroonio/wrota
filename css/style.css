@@ -154,7 +154,8 @@ footer {
 
         flex-direction: column;
 
-        background: #003366;
+        /* background: #003366; */
+		background: #00838f;
 
         padding: 1rem;
     }
