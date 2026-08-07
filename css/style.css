@@ -38,13 +38,13 @@ body {
 	list-style: none;
     margin: 0;
     padding: 0;
-	color: rgba(255, 255, 255, .5);
-}
+	}
 
 .menu a {
     color: white;
     text-decoration: none;
 	text-transform: uppercase;
+	color: rgba(255, 255, 255, .5);
 }
 
 .menu a:hover {
