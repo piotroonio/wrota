@@ -44,7 +44,8 @@ body {
 
 .menu a {
     color: white;
-    text-decoration: none;
+    /*text-decoration: none;*/
+	text-decoration: upper;
 }
 
 .menu a:hover {
@@ -105,7 +106,8 @@ footer {
 
    /* background: #003366;*/
 
-    color: white;
+    /* color: white; */
+	color: grey;
 
     margin-top: 40px;
 }
