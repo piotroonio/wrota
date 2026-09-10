@@ -1,11 +1,6 @@
 {
   "terminy": [
     {
-      "data": "2026-09-09",
-      "opis": "środa 9 września 2026 r.",
-      "uwaga": ""
-    },
-    {
       "data": "2026-10-14",
       "opis": "środa 14 października 2026 r.",
       "uwaga": ""
@@ -23,6 +18,11 @@
     {
       "data": "2027-01-13",
       "opis": "środa 13 stycznia 2027 r.",
+      "uwaga": ""
+    },
+    {
+      "data": "2027-02-10",
+      "opis": "środa 10 lutego 2027 r.",
       "uwaga": ""
     }
   ]
