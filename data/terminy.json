@@ -1,14 +1,9 @@
 {
   "terminy": [
     {
-      "data": "2026-10-14",
-      "opis": "środa 14 października 2026 r.",
-      "uwaga": ""
-    },
-    {
-      "data": "2026-11-11",
-      "opis": "środa 11 listopada 2026 r.",
-      "uwaga": ""
+      "data": "2026-11-18",
+      "opis": "środa 18 listopada 2026 r.",
+      "uwaga": "Uwaga! Trzecia środa miesiąca."
     },
     {
       "data": "2026-12-09",
@@ -23,6 +18,11 @@
     {
       "data": "2027-02-10",
       "opis": "środa 10 lutego 2027 r.",
+      "uwaga": ""
+    },
+    {
+      "data": "2027-03-10",
+      "opis": "środa 10 marca 2027 r.",
       "uwaga": ""
     }
   ]
